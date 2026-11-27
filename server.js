@@ -1,5 +1,5 @@
 const http = require('http');
-const VERSION = 'Version 2';
+const VERSION = 'Version 3';
 const NAME = 'RK Onia';
 const port = process.env.PORT || 8080;
 http.createServer((req, res) => {
